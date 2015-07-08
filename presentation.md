@@ -128,8 +128,8 @@ All talk about
 
 class: center middle
 
-All of this rules
-# Is not enough
+All of those rules
+# Are not enough
 
 ---
 
@@ -283,7 +283,7 @@ User.find_by(name: 'John') || MissingUser.new()
 
 class: middle
 
-# What if there were no `if`?
+# What if there was no `if`?
 
 ```ruby
 class TrustUser
@@ -303,7 +303,7 @@ end
 
 class: inverse, middle, center
 
-This has name
+It is named
 # Null Object Pattern
 
 ---
@@ -420,7 +420,7 @@ Some tips
 
 class: middle
 
-# When do refactoring?
+# When to start refactoring?
 
 - Is it DRY?
 - Does it have one responsibility?
@@ -456,10 +456,10 @@ class: middle
 
 - Always send message to object
 - TDD/testing is hard when you have bad design
-- GOOD Design cost time on start but it is profitable in the future
-- Think what you do and thing why you do
+- GOOD Design costs time on start but it is profitable in the future
+- Think what you do and why you do it
 - If you have `if` .strong[STOP] and thing
-- Duplication is far cheap then wrong abstraction
+- Duplication is far cheaper then wrong abstraction
 
 ???
 
