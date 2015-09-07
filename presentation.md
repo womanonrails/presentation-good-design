@@ -511,4 +511,4 @@ class: middle, center
 ### Agnieszka Matysek
 [@womanonrails](https://twitter.com/womanonrails)
 
-amatysek@fractalsoft.org
+amatysek&#064;fractalsoft&#046;org
